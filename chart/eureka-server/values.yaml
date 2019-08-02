@@ -17,7 +17,7 @@ env:
 
 deployment:
   # 服务管理端口
-  managementPort: 8000
+  managementPort: 8001
 
 service:
   # 是否创建k8s service
