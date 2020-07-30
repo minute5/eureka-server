@@ -13,3 +13,5 @@ target/
 .settings
 
 application-default.yml
+
+.out
